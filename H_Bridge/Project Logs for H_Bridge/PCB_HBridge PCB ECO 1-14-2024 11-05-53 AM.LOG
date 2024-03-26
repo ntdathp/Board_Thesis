@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=U2-10
+Removed Pin From Net: NetName=GND Pin=U2-19
+Removed Pin From Net: NetName=5V Pin=U2-20
+Change Component Footprint: Designator=  Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Change Component Footprint: Designator=C5 Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Change Component Footprint: Designator=C6 Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Change Component Footprint: Designator=C11 Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=5V Pin=U3-20
+Added Room: Name=H_Bridge

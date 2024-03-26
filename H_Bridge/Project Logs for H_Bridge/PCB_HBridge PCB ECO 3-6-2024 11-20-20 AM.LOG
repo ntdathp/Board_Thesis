@@ -1,0 +1,41 @@
+Change Designator: Invalid Designator
+Added Component: Designator=C12(WCAP-ASLU_D4H5.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "470nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "5.5118mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "16.6667MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "400nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "1000hours"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "53914652"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "4mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "4mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.3mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Member To Class: ClassName=H_Bridge Member=Component C6 470nF
+Added Member To Class: ClassName=H_Bridge Member=Component C9 1 nF, 50 VDC
+Added Member To Class: ClassName=H_Bridge Member=Component C10 100 nF, 50 VDC
+Added Member To Class: ClassName=H_Bridge Member=Component C12 470nF
+Added Member To Class: ClassName=H_Bridge Member=Component C14 100 nF, 50 VDC
+Added Member To Class: ClassName=H_Bridge Member=Component C16 100 nF, 50 VDC
+Added Member To Class: ClassName=H_Bridge Member=Component J3 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=H_Bridge Member=Component R2 1 KOhm, 1/4 W
+Added Member To Class: ClassName=H_Bridge Member=Component R3 1 KOhm, 1/4 W
+Added Member To Class: ClassName=H_Bridge Member=Component R5 1 KOhm, 1/4 W
+Added Member To Class: ClassName=H_Bridge Member=Component R8 1 KOhm, 1/4 W
+Added Member To Class: ClassName=H_Bridge Member=Component U3 BTS7960B
+Added Room: Name=H_Bridge

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=NetJ1_1 Pin=U4-4
+Removed Pin From Net: NetName=NetJ2_2 Pin=U4-6
+Removed Pin From Net: NetName=NetJ2_1 Pin=U4-8
+Removed Pin From Net: NetName=NetU2_3 Pin=U4-12
+Removed Pin From Net: NetName=NetU3_3 Pin=U4-14
+Change Component Footprint: Designator=U4 Old Footprint=DW0020A_M New Footprint=FP-DW0020A-IPC_A
+Change Component Footprint: Designator=C12 Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Change Component Comment : Designator=U4 Old Comment=SN74HC244DWR New Comment=SN74HC245DWR
+Change Designator: Invalid Designator
+Change Managed Component Library Link : Designator=U4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3CBC0797-6A64-4F0F-9EF8-579B2D9798F6 New ItemGUID=49A58A00-B17B-453E-A491-FD4A36AD4056 Old RevisionGUID=4E38ED7D-FD1E-49BE-9C65-AA4A2E17D200 New RevisionGUID=A43210D8-23BB-4393-B8A0-E93E44601FFA
+Change component parameters: Designator = "U4" ("U4"); Footprint = "DW0020A_M"; UniqueID = "\FBLEWZQJ" ("\FBLEWZQJ")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High Level Output Current"; Value = "-7.8mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "12.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic Function"; Value = "Transceiver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Level Output Current"; Value = "7.8mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits per Element"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay"; Value = "335ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "8uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "335ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.017662oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "7.52mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=U4-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U4-3
+Added Pin To Net: NetName=NetJ2_2 Pin=U4-4
+Added Pin To Net: NetName=NetJ2_1 Pin=U4-5
+Added Pin To Net: NetName=NetU2_3 Pin=U4-15
+Added Pin To Net: NetName=NetU3_3 Pin=U4-16
+Added Pin To Net: NetName=NetU4_17 Pin=U4-17
+Added Pin To Net: NetName=NetU4_17 Pin=U5-3
+Added Net: Name=NetU4_17
+Added Room: Name=H_Bridge

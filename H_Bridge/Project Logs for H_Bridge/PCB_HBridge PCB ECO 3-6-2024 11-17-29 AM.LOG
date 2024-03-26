@@ -1,0 +1,50 @@
+Removed Member From Class: ClassName=H_Bridge Member=C17
+Change Component Footprint: Designator= Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Change Component Footprint: Designator=C5 Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Change Component Footprint: Designator=C6 Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Change Component Footprint: Designator=C11 Old Footprint=WCAP-ASLU_D4H5.5 New Footprint=WCAP-ASLU_D4H5.5
+Change Component Designator: OldDesignator= NewDesignator=C12
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C12 NewDesignator=C17
+Change Component Designator: OldDesignator=C13 NewDesignator=C18
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C13
+Change Component Designator: OldDesignator=C17 NewDesignator=C14
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Change Component Designator: OldDesignator=U7 NewDesignator=U5
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetU3_12 New Net Name=NetU2_3
+Change Net Name : Old Net Name=NetU3_14 New Net Name=NetU3_3
+Change Net Name : Old Net Name=NetU3_16 New Net Name=NetU4_16
+Change Net Name : Old Net Name=NetU3_18 New Net Name=NetU4_18
+Added Member To Class: ClassName=H_Bridge Member=Component C18 100 nF, 50 VDC
+Added Room: Name=H_Bridge
